@@ -8,9 +8,9 @@ Presenters:
 * [Ludovico Boratto](https://www.ludovicoboratto.com/) (University of Cagliari, Italy)
 * [Ernesto William De Luca](https://ernestodeluca.eu/) (Otto von Guericke University Magdeburg and Leibniz Institute for Educational Media | Georg Eckert Institute, Germany)
 
-## Material
+## Resources
 
-The material will be released soon.
+The resources will be released soon.
 
 <!-- * [Slides](https://www.slideshare.net/ErasmoPurificato2/leveraging-graph-neural-networks-for-user-profiling-recent-advances-and-open-challenges)
 * [Website](https://beyondaccuracy-userprofiling.github.io/tutorial-cikm23/) -->
