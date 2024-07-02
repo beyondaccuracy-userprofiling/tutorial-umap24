@@ -12,32 +12,29 @@ Presenters:
 
 The resources will be released soon.
 
-<!-- * [Slides](https://www.slideshare.net/ErasmoPurificato2/leveraging-graph-neural-networks-for-user-profiling-recent-advances-and-open-challenges)
-* [Website](https://beyondaccuracy-userprofiling.github.io/tutorial-cikm23/) -->
+* [Slides](https://www.slideshare.net/slideshow/paradigm-shifts-in-user-modeling-a-journey-from-historical-foundations-to-emerging-trends/270005861)
+* [Website](https://beyondaccuracy-userprofiling.github.io/tutorial-umap24/)
 
 <!-- The rest of the material will be released soon. -->
 
 ## Citation
 
-The citation code will be provided soon.
-
-<!-- If you find the topics and the slides of the tutorial useful for your research, we would appreciate an acknowledgment by citing our summary in the CIKM '23 proceedings:
+If you find the topics and the slides of the tutorial useful for your research, we would appreciate an acknowledgment by citing our summary in the UMAP '24 proceedings:
 
 ```
-@inproceedings{10.1145/3583780.3615292,
+@inproceedings{10.1145/3631700.3653062,
 author = {Purificato, Erasmo and Boratto, Ludovico and De Luca, Ernesto William},
-title = {Leveraging Graph Neural Networks for User Profiling: Recent Advances and Open Challenges},
-year = {2023},
-isbn = {9798400701245},
+title = {Paradigm Shifts in User Modeling: A Journey from Historical Foundations to Emerging Trends},
+year = {2024},
+isbn = {9798400704666},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3583780.3615292},
-doi = {10.1145/3583780.3615292},
-booktitle = {Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
-pages = {5216–5219},
+url = {https://doi.org/10.1145/3631700.3653062},
+doi = {10.1145/3631700.3653062},
+pages = {13–16},
 numpages = {4},
-keywords = {graph neural networks, explainability, user profiling, fairness},
-location = {Birmingham, United Kingdom},
-series = {CIKM '23}
+keywords = {Paradigm Shifts, User Modeling, User Profiling},
+location = {Cagliari, Italy},
+series = {UMAP Adjunct '24}
 }
-``` -->
+```
