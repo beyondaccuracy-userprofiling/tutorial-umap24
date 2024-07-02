@@ -12,8 +12,10 @@ Presenters:
 
 The resources will be released soon.
 
-* [Slides](https://www.slideshare.net/slideshow/paradigm-shifts-in-user-modeling-a-journey-from-historical-foundations-to-emerging-trends/270005861)
 * [Website](https://beyondaccuracy-userprofiling.github.io/tutorial-umap24/)
+* [Slides](https://www.slideshare.net/slideshow/paradigm-shifts-in-user-modeling-a-journey-from-historical-foundations-to-emerging-trends/270005861)
+* [Survey on User Modeling and User Profiling](https://arxiv.org/abs/2402.09660)
+* [Tutorial Summary](https://dl.acm.org/doi/10.1145/3631700.3653062)
 
 <!-- The rest of the material will be released soon. -->
 
